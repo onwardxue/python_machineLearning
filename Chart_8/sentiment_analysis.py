@@ -5,7 +5,7 @@
 # @Project : python_machineLearning
 
 '''
-第八章
+第八章 用机器学习进行情感分析
     8.1 为文本处理预备好IMDb电影评论数据
 
     8.2 词袋模型介绍
